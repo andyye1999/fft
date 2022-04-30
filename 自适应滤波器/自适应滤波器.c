@@ -49,7 +49,7 @@ int main()
 	//fopen_s(&f_noise, "babble.pcm", "rb");
 	//fopen_s(&f_out1, "out1.pcm", "wb");
 
-	f_x = fopen("‘Î…˘º”»À…˘≈Æ.pcm", "rb");//babble_rs
+	f_x = fopen("whitenoise.pcm", "rb");//babble_rs
 	if (f_x == NULL) { printf("Cann't open the nosie file!!!\n");  exit(0); }
 	//f_x1 = fopen("300_2k.pcm", "rb");
 	//if (f_x1 == NULL) { printf("Cann't open the nosie file!!!\n");  exit(0); }

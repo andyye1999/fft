@@ -1,2 +1,4 @@
 # fft
-fft代码
+C语言代码fft代码  
+没有用math.h  
+

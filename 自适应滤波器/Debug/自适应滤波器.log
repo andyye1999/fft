@@ -1,5 +1,0 @@
-﻿  自适应滤波器.c
-E:\Clearning\开学培训\自适应滤波器\自适应滤波器.c(46,22): warning C4101: “f_x1”: 未引用的局部变量
-E:\Clearning\开学培训\自适应滤波器\自适应滤波器.c(36,12): warning C4101: “j”: 未引用的局部变量
-E:\Clearning\开学培训\自适应滤波器\自适应滤波器.c(38,26): warning C4101: “vi1”: 未引用的局部变量
-  自适应滤波器.vcxproj -> E:\Clearning\开学培训\自适应滤波器\Debug\自适应滤波器.exe

@@ -1,4 +1,5 @@
 # FFT
+A Fast Fourier Transform written in C
 非常好用的C语言代码FFT代码  
 代码简洁  
 没有用math.h  
